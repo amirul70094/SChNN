@@ -1,7 +1,7 @@
 # A Shifted Chebyshev Neural Network Approach for Nonlinear Variable-order Fractional Differential Equations (Under review)
 
 ## Overview
-This paper, titled "A Shifted Chebyshev Neural Network Approach for Nonlinear Variable-order Fractional Differential Equations", presents three examples. The code for the examples has been uploaded here. However, please note that due to copyright issues, it is advisable to contact the authors directly to obtain the code.
+This paper, titled "A Shifted Chebyshev Neural Network Approach for Nonlinear Variable-order Fractional Differential Equations", presents three examples. The code for the examples has been uploaded here. 
 
 ## Author
 Ahmad Amirul Hakeem Abd Aziz (First Author), 
